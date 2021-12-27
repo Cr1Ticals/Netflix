@@ -1,15 +1,15 @@
 # Netflix
 
-# Sobre
+## Sobre
 Projeto tem o objetivo de replicar a plataforma de series e filmes Netflix
-# Imagens
+### Imagens
 ![Inicio](https://github.com/Cr1Ticals/Netflix/blob/main/assets/tela1.png)
 
 ![Carrossel](https://github.com/Cr1Ticals/Netflix/blob/main/assets/tela2.png)
-# Recursos
+## Recursos
 -JavaScript
 -HTML
 -CSS
 -OwlCarrossel
-# Autor
+## Autor
 Waliston Cristiano
