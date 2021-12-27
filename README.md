@@ -7,6 +7,7 @@ Projeto tem o objetivo de replicar a plataforma de series e filmes Netflix
 
 ![Carrossel](https://github.com/Cr1Ticals/Netflix/blob/main/assets/tela2.png)
 # Recursos
+-JavaScript
 -HTML
 -CSS
 -OwlCarrossel
